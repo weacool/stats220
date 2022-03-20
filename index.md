@@ -31,3 +31,6 @@ image_write(meme_1, "my_meme.png")
   <li>I believe this is an experience <b>every</b> student can understand and thus relate to.</li>
   <li>I personally like this meme and have thus <i>incorporated</i> it into this assignment.</li>
 </ul>
+
+
+![](https://bradaronson.com/wp-content/uploads/2013/10/happy.jpg)
